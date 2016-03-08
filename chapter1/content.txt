@@ -1,0 +1,6 @@
+h5用属性标签代替js操作，用一些更加语义化的标签代替div。
+解决三个问题：1、浏览器之间的兼容性。2、文档结构不明确。3、安全。
+<!DOCTYPE html>
+<meta charset="utf-8">
+添加了section、article等元素
+增加全局属性contentEditable属性，可以直接修改元素中的内容。
