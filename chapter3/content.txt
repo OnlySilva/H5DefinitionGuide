@@ -1,0 +1,11 @@
+1、article元素：代表文档、页面或应用程序中独立完整、可以被外部引用的内容。可以看作是特别的section类，强调独立。
+2、section元素：对网站上页面内容进行分块，一般要求分块的内容有标题。强调分块。不要将section作为样式的页面容器，而是用div;artile/aside/nav更适合就不用section；没标题不用section。
+3、nav元素：导航链接组。
+4、aside元素，用来表示当前页面或文章的附属信息部分，包含与当前页面相关的引用、侧边栏、广告、导航条以及其他类似的有别于主要内容的部分。
+5、time
+6、pubdate：用到time上表示文章发布日期。
+7、header：通常至少包含一个heading元素即h1到h6，也可以包含hgroup元素，还可以包含nav元素。
+8、hgroup元素：主标题下有副标题。
+9、footer元素：可以为article和section元素添加footer。
+10、address元素：呈现联系信息，包括名字、网站链接、电子邮箱、电话号码。
+11、大纲
