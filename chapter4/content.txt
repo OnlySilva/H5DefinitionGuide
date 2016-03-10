@@ -1,0 +1,16 @@
+一、新增属性
+1、form属性：给从属元素指定form属性，可以将从属元素放置到任何位置。
+2、formaction属性：单击不同按钮将表单提交到不同页面。
+3、formmethod:同上，制定不同提交方式（post or get)
+4、formenctype：不同编码方式
+5、formtarget:不同打开方式。
+6、autofocus：自动获得光标。代替js中focus()函数
+7、required：空白不允许提交。
+8、labels/control属性，用于js。
+9、placeholder：未输入时显示的提示
+10、list datalist:类似选择框，但可以自己编辑。
+11、autocomplete、pattern(符合正则规则才允许提交)、Selectoin-Direction、indeterminate(checked与not之间)
+12、image提交按钮的height属性和width属性
+13、textarea元素的maxlength和wrap
+二、input元素种类
+1、url、email/date/time...
